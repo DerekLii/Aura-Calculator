@@ -13,6 +13,8 @@ python annotator.py dataset3
 
 etc...
 
+Note: Each dataset contains two fields. The first column, `Quote`, contains the interviewee quote and the second column, `Aura Points`, is an empty column that will be filled upon annotation.
+
 ### ---Results---
 
 The output results are written into the output folder
