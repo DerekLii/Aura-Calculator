@@ -50,6 +50,8 @@ From experimentation, it took each member an average of 5 minutes and 3 seconds 
 
 Each annotator is expected to label an average of 102 unique quotes + 20 duplicate quotes per dataset, which results in a total of 122 transcripts taking 1 hour and 1 minute per dataset. 
 
+In total, we have 814 instances and 144 duplicates, this means that we have 672 unique instances.
+
 ## Sensitive Content Disclaimer
 
 This dataset contains real NBA player statements, which may include emotionally charged or controversial remarks.
