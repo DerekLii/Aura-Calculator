@@ -57,7 +57,7 @@ def main():
     # Loop over data and request labels
     for index, row in my_data.iterrows():
         print(delimiter)
-        print("Instance " + str(index) + ":")
+        print("Instance " + str(index + 1) + ":")
         print(row[data_col] + "\n")
 
         # Initialize a dictionary to store scores for this instance
